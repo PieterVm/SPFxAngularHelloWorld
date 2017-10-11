@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "new-sp-fx-angular-client-side-solution",
+    "id": "db850574-878a-411b-9123-148827a1be6a",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/new-sp-fx-angular.sppkg"
+  }
+}
